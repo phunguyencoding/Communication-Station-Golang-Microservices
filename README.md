@@ -10,9 +10,7 @@
 5. A Listener service: receives messages from RabbitMQ and acts upon them
 6. A Mail service: takes a JSON payload, converts into a formatted email, and send it out
 --------------------------------------------
-## Special action requirement:
-1. Install Firebase
-2. Google Map API
-3. Enable Directions API, Maps SDK for Android, Places API, Geolocation API, Geocoding API in Google Console
-4. Active Billing Account in Google Console to use Route Guiding
+## Deployments:
+1. Docker Swarm: 2 Nodes with security configuration.
+2. Kubernetes: 9 deployments, 9 services, and Ingresses (NGINX)
 --------------------------------------------
