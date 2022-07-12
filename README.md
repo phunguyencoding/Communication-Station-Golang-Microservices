@@ -24,6 +24,10 @@
 1. Docker Swarm: 2 Nodes (1 manager, 1 worker) with security configuration.
 2. Kubernetes: 9 deployments, 9 services, and Ingresses (NGINX)
 --------------------------------------------
+## Configuration:
+![](demo/docker-hub.jpg) <br />
+![](demo/domain-config.jpg) <br />
+--------------------------------------------
 
 ## Demo
 
