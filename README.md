@@ -2,6 +2,15 @@
 ### App Name: Communication Station Golang Microservices
 * Built Full stack of Communication Station GO application with all independent services including Broker, Listener, Authentication, Logging, and Mailing which can communicate in different methods (REST API – JSON, RPC, gRPC), store data in different usage (RabbitMQ, Mongo, Postgres), and scale themselves by containerizing in automating deployments (Docker, Docker Swarm, Kubernetes). 
 --------------------------------------------
+##  Architecture - 7 folders:
+1. project folder: configuration for Docker, Docker Swarm, Kubernetes, Caddy, and NGINX.
+2. broker-service folder
+3. authentication-service folder
+4. logger-service folder
+5. listener-service folder
+6. mail-service folder
+7. front-end
+--------------------------------------------
 ## Functionality – six services:
 1. A Front End service: displays web pages
 2. A Broker service: an optional single point of entry into the microservice cluster
