@@ -20,7 +20,7 @@
 6. A Mail service: takes a JSON payload, converts into a formatted email, and send it out
 --------------------------------------------
 ## Deployments:
-1. Docker Swarm: 2 Nodes with security configuration.
+1. Docker Swarm: 2 Nodes (1 manager, 1 worker) with security configuration.
 2. Kubernetes: 9 deployments, 9 services, and Ingresses (NGINX)
 --------------------------------------------
 
