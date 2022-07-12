@@ -31,7 +31,29 @@
 --------------------------------------------
 
 ## Demo
-![](demo/docker-hub.jpg) <br />
+![](demo/deployment1.jpg) <br />
+![](demo/p1.jpg) <br />
+![](demo/p2.jpg) <br />
+![](demo/p3.jpg) <br />
+![](demo/p4.jpg) <br />
 ### Docker Swarm
-
+![](demo/p5.jpg) <br />
+![](demo/p6.jpg) <br />
+![](demo/p7.jpg) <br />
+![](demo/p8.jpg) <br />
+![](demo/p9.jpg) <br />
+![](demo/p10.jpg) <br />
+![](demo/p11.jpg) <br />
+![](demo/p12.jpg) <br />
 ### Kubernetes
+![](demo/k8s-p1.jpg) <br />
+![](demo/k8s-p2.jpg) <br />
+![](demo/k8s-p3.jpg) <br />
+![](demo/k8s-p4.jpg) <br />
+![](demo/k8s-p5.jpg) <br />
+![](demo/k8s-p6.jpg) <br />
+![](demo/k8s-p7.jpg) <br />
+![](demo/k8s-p8.jpg) <br />
+![](demo/k8s-p9.jpg) <br />
+![](demo/k8s-p10.jpg) <br />
+![](demo/k8s-p11.jpg) <br />
