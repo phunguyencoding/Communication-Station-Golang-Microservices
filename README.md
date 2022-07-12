@@ -27,10 +27,11 @@
 ## Configuration:
 ![](demo/docker-hub.jpg) <br />
 ![](demo/domain-config.jpg) <br />
+
 --------------------------------------------
 
 ## Demo
-
+![](demo/docker-hub.jpg) <br />
 ### Docker Swarm
 
 ### Kubernetes
