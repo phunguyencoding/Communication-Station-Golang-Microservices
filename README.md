@@ -10,6 +10,7 @@
 5. listener-service folder
 6. mail-service folder
 7. front-end
+![](demo/p0.jpg) <br />
 --------------------------------------------
 ## Functionality – six services:
 1. A Front End service: displays web pages
